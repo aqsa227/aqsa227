@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/fatimaaa123/hackos" target="blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />
   </a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/aqsaansari/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" /></a>
