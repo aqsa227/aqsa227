@@ -8,10 +8,6 @@
 
 <div align="center">
 
- 
-
-
-
 <img align ="right" alt ="coding" width="400" src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TYd1VNBsvU71J6wh4QLY79Xe--yElnQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa227&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa227" /> </p>
@@ -19,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I think I am Funny**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
