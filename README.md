@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align ="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+
+<img align ="right" alt ="coding" width="400" src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TYd1VNBsvU71J6wh4QLY79Xe--yElnQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa227&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa227" /> </p>
 
