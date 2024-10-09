@@ -1,21 +1,22 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AQSA+FATIMA!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aqsa+Fatima!;" />
 </h1>
-<h3 align="center">A passionate software developer from India 🇨🇦</h3>
+
+<h3 align="center">A passionate software developer from India</h3>
+
 <br/>
 
-<div align="center">
 
-<img align ="right" alt ="coding" width="400" src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TYd1VNBsvU71J6wh4QLY79Xe--yElnQ">
+<img align ="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqsa227&label=Profile%20views&color=0e75b6&style=flat" alt="aqsa227" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - ⚡ Fun fact **I think I am Funny**
-</div>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
