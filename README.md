@@ -1,4 +1,5 @@
-![MasterHead](https://coding.blog/img/update-social-banner.png)
+![MasterHead](![image](https://github.com/user-attachments/assets/58257c8d-e67c-4714-b5c8-2a9be0fda29b)
+)
 <h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
