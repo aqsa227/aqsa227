@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CJ39n-nqCPKqcGciQV2pE0nQhP3MOVIigw&s)
 
 <h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
