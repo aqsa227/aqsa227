@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-eozDNeES1qYMD9sPbmtVpVXhoXEBpw2ZHYuV1x4SyOOHknl4E_b34ktxec7YxsJvW1s&usqp=CAU)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
