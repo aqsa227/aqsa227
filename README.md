@@ -11,8 +11,6 @@
 <div align="center">
  
 
-<h1 align="center">Hi 👋, I'm Aqsa Fatima</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
 
 <img align ="right" alt ="coding" width="400" src="https://media.licdn.com/dms/image/sync/v2/D4E27AQE9JKYZoBQEEw/articleshare-shrink_800/articleshare-shrink_800/0/1725828778052?e=2147483647&v=beta&t=KPV87XV0DB7-TYd1VNBsvU71J6wh4QLY79Xe--yElnQ">
