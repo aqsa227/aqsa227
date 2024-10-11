@@ -17,7 +17,7 @@
 
 🌱 I’m currently learning **Docker, SQL, AWS**
 
-💬 Ask me about **C, C++, Pyhton... or anything [here](https://github.com/aqsa227)**
+💬 Ask me about **C, C++, Python... or anything [here](https://github.com/aqsa227)**
 
 ⚡ Fun fact **I think I am Funny**
 <div > 
